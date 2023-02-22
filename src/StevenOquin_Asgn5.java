@@ -1,3 +1,10 @@
+/**
+ * Name: Steven Oquin
+ * Date: 02/21/2023
+ * Class: CMIS 141/6380
+ * This program prompts the user on which action they want to take, calculates the inputs then returns the result.
+ */
+
 import java.util.Scanner;
 
 public class StevenOquin_Asgn5 {
